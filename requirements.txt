@@ -1,5 +1,5 @@
-cat > requirements.txt << 'EOF'
 streamlit==1.28.1
 ollama==0.0.11
 requests==2.31.0
 python-dotenv==1.0.0
+EOF
