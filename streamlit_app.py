@@ -1,4 +1,3 @@
-cat > app.py << 'EOF'
 import streamlit as st
 import ollama
 import os
